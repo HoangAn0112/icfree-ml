@@ -1,0 +1,20 @@
+{
+    "Dimensions": "16x24",
+    "deadVolume": 0,
+    "Well capacity": 60000,
+    "Current well": "M19",
+    "Parameters": [
+        "HEPES",
+        "DNA",
+        "Spermidine",
+        "K-glutamate",
+        "Mg-glutamate",
+        "Amino acid",
+        "NTPs",
+        "Water",
+        "Malachite green",
+        "PEG-8000",
+        "3-PGA"
+    ],
+    "Wells": "round3\\destination_plate_1.csv"
+}
